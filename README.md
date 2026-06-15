@@ -1,3 +1,2 @@
 # VHDL Traffic Light System
-## Final Project for "EECS 443: Digital Systems Design" at the University of Kansas
-A VHDL implementation of a traffic light system for a 4-way intersection, leveraging the Nexys4 field-programmable gate array (FPGA) board.
+A VHDL implementation of a traffic light system for a 4-way intersection, targeting the Nexys4 field-programmable gate array (FPGA) board.
