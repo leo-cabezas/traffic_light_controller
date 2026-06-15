@@ -1,3 +1,3 @@
-Test README page
+VHDL Traffic Light System (Final Project for EECS 443: Digital Systems Design)
 
-<iframe src="docs/EECS 443 Final Project Report - Leo Cabezas.pdf " width="100%" height="800px"></iframe>
+A VHDL implementation of a traffic light system for a 4-way intersection, leveraging the Nexys A7 field-programmable gate array (FPGA) board.
