@@ -19,7 +19,7 @@ A VHDL implementation of a traffic light system for a 4-way intersection, target
 
 # Deployment instructions
 
-
+In the [Vivado 2025.2 suite](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html), import the project and compile it. Using a
 
 # How it works
 
