@@ -1,4 +1,4 @@
-Traffic Light Controller (4-way intersection)
+# Traffic Light Controller (4-way intersection)
 
 - **Institution:** University of Kansas
 - **Course:** EECS 443 (Digital Systems Design)
