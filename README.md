@@ -23,4 +23,4 @@ A VHDL implementation of a traffic light system for a 4-way intersection, target
 
 # How it works
 
-Download the final report for this project [here]("docs/files/EECS 443 Final Project Report - Leo Cabezas.pdf").
+Download the final report for this project [here](docs/files/EECS443_Final_Project_Report.pdf).
