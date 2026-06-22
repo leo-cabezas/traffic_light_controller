@@ -3,7 +3,7 @@
 - **Institution:** University of Kansas
 - **Course:** EECS 443 (Digital Systems Design)
 
-A simple VHDL implementation of a traffic light system for a 4-way intersection, targeting the Nexys A7 field-programmable gate array (FPGA) board. A simple Mealy finite state machine (FSM) determines the current state of the intersection based on the provided on-board switch inputs. External LED circuitry was added to display the state of the controller.
+A simple VHDL implementation of a traffic light system for a 4-way intersection, targeting the Nexys A7 field-programmable gate array (FPGA) board. A simple Mealy finite state machine (FSM) determines the current state of the intersection based on the provided on-board switch inputs. External LED circuitry was added to visually showcase the state of the traffic light controller. See images below for reference:
 
 <table>
   <tr>
