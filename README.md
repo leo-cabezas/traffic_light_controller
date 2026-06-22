@@ -20,7 +20,7 @@ A simple VHDL implementation of a traffic light system for a 4-way intersection,
 # Deployment instructions
 
 <figure align="center">
-  <img src="docs/images/external_circuitry.png" alt="external_circuitry" width="800"><br>
+  <img src="docs/images/external_circuitry.png" alt="external_circuitry" width="500"><br>
   <figcaption><em>Figure 3: External LED circuit diagram for the traffic light controller.</em></figcaption>
 </figure>
 <br><br>
